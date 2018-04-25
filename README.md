@@ -191,3 +191,4 @@ Oh yea! Not much new here. But that didn't stop the dopamine hit. We saw that by
 As for new information, we saw that we can get the user to call the `dispatch` method, by executing `dispatch` from inside the callback of an event handler.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/redux-dispatch-with-event-listeners'>Redux Dispatch With Event Listeners</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Completing our Counter Application</p>
